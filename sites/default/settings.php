@@ -585,4 +585,4 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
  */
 # $conf['theme_debug'] = TRUE;
 
-$databases['default']['default'] = array('database' => '9b7fb762c79a','username' => 'cb23ccc5cdd2','password' => '374336e78243','host' => '54.82.23.216','port' => '','driver' => 'mysql','prefix' => '');
+$databases['default']['default'] = array('database' => 'c1c75c487781','username' => '27f2aa0dd350','password' => '712214cd4fe6','host' => '54.82.23.216','port' => '','driver' => 'mysql','prefix' => '');
